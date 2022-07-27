@@ -1,1 +1,3 @@
-print('everything is Ok')
+if(int(input())==1729):
+    print('Its magic')
+else: print('non magical')
