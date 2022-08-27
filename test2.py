@@ -1,4 +1,4 @@
 if(int(input()) == 1729):
-    print('It\'s Magic')
+    print('Its magic')
 else:
     print('non magical')
